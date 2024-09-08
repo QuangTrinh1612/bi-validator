@@ -1,0 +1,11 @@
+cffi==1.17.1
+clr-loader==0.2.6
+numpy==2.1.1
+pandas==2.2.2
+pyadomd==0.1.1
+pycparser==2.22
+python-dateutil==2.9.0.post0
+pythonnet==3.0.3
+pytz==2024.1
+six==1.16.0
+tzdata==2024.1
