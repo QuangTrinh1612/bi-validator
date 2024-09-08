@@ -1,4 +1,11 @@
-# BI Validator
+<h1>
+    <img
+        src="https://cdn-icons-png.flaticon.com/512/12492/12492238.png"
+        alt="BI Validator logo"
+        height=80
+    />
+    BI Validator
+</h1>
 
 BI Validator is a Python tool designed to interact with Power BI service, enabling users to retrieve measure values, extract table lineage, and gather model metadata. It automates the process of validating and extracting key data from Power BI models for business intelligence tasks.
 
