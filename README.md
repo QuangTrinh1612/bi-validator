@@ -1,9 +1,4 @@
 <h1>
-    <img
-        src="assets\logo.svg"
-        alt="BI Validator logo"
-        height=50
-    />
     BI Validator
 </h1>
 
