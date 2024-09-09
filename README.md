@@ -1,8 +1,8 @@
 <h1>
     <img
-        src="https://cdn-icons-png.flaticon.com/512/12492/12492238.png"
+        src="assets\logo.svg"
         alt="BI Validator logo"
-        height=80
+        height=50
     />
     BI Validator
 </h1>
