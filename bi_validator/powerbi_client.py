@@ -35,7 +35,8 @@ if __name__ == "__main__":
         
         # Example to retrieve DAX results
         df = power_bi_conn.get_dax_result("""
-            EVALUATE 'DIM - REGION'
+            EVALUATE
+                'DIM - REGION'
         """)
         
         print(df)
